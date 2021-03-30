@@ -1,4 +1,5 @@
 # gitgudhub
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/79612854/112931297-62863e00-9178-11eb-87eb-8d94ee5772aa.png)
 
 ## Welcome to the stage of history
 
